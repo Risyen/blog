@@ -6,12 +6,12 @@
     "start": "node .output/server/index.mjs"
   },
   "devDependencies": {
-    "dayjs": "^1.10.7",
     "nuxt3": "latest",
     "vue-gtag-next": "^1.14.0"
   },
   "dependencies": {
-    "@fect-ui/vue": "^1.0.5",
-    "@fect-ui/vue-icons": "^1.0.8"
+    "dayjs": "^1.10.7",
+    "@fect-ui/vue": "latest",
+    "@fect-ui/vue-icons": "latest"
   }
 }
